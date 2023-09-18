@@ -1,0 +1,28 @@
+.text-center {
+    text-align: center;
+    color: rgb(56, 19, 221);
+    background-color: rgb(233, 185, 226);
+}
+.bg-red{
+    background: rgb(192, 192, 192);
+    text-align: center;
+}
+
+
+.button{
+    padding: 20px;
+    margin: 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.row{
+    margin: 8px;
+}
+.row1 input {
+    font-size: 20px;
+    margin: 10px;
+    padding: 12px 38px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
